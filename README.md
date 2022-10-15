@@ -1,7 +1,7 @@
 ### Olá eu sou o Vinicius Fais 👋
 
 - 👨‍💻 Estudando Desenvolvimento Mobile Flutter
-- 😄 Pronome: ele/dele
+<!--- 😄 Pronome: ele/dele-->
 
 <div align="center">
   <a href="https://github.com/ViniFais">
