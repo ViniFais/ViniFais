@@ -1,4 +1,4 @@
-### Olá eu sou o Vinicius Fais 👋
+### Olá eu sou o Vinicius Fais, Desenvolvedor Flutter 👋
 
 - 👨‍💻 Estudando Desenvolvimento Mobile Flutter
 <!--- 😄 Pronome: ele/dele-->
