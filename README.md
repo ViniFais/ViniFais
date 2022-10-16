@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFais&layout=compact&langs_count=7&theme=midnight-purple"/>
  <!--<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniFais&theme=chartreuse-dark"/>-->
 </div>
+<hr/>
+<p>Tecnologias dominadas</p>
 <div style="display: inline_block"><br>
   <img align="center" alt="Vini-Dart" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg">
   <img align="center" alt="Vini-Flutter" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
@@ -18,7 +20,7 @@
 </div>
   
   ##
-
+  
 <div> 
   <a href="https://www.linkedin.com/in/vinicius-fais-8898741b0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto:vinifais04@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
