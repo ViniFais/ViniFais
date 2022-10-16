@@ -1,4 +1,4 @@
-### Olá eu sou o Vinicius Fais, Desenvolvedor Flutter 👋
+### Olá eu sou o Vinicius Fais 👋
 
 - 👨‍💻 Estudando Desenvolvimento Mobile Flutter
 
